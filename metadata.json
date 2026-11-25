@@ -1,0 +1,6 @@
+{
+  "name": "Radar Soberano — Observatorio Digital LAUICOM",
+  "description": "Observatorio Digital universitario de análisis crítico mediático, guerra cognitiva y comunicación popular (Semanas 9, 10 y 11 - LAUICOM).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
